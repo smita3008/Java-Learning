@@ -7,7 +7,7 @@ public class TempConversion
 
         System.out.println("Enter Celsius Temp");
         double celsius = sc.nextDouble();
-        double Fahrenheit= celsius*(1.8)+(32); // 1 far
+        double Fahrenheit= celsius*(1.8)+(32); 
         double Kelvin = celsius+273;
         System.out.println("Conversion of Celsius to Fahrenheit is " + Fahrenheit);
         System.out.println("Conversion of Celsius to Kelvin is"+Kelvin);
