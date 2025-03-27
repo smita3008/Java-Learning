@@ -1,4 +1,13 @@
 package object;
 
-public class Book {
+public class Book
+{
+    String nameOfBook;
+    String authorName;
+    int numberOfPages;
+
+}
+void toRead(String content)
+{
+
 }

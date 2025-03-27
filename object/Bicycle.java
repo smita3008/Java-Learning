@@ -1,4 +1,15 @@
 package object;
 
-public class Bicycle {
+public class Bicycle
+{
+    String modelName;
+    int numberOfWheels;
 }
+
+    void ride()
+    {
+
+    }
+
+
+
